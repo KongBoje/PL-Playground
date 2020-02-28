@@ -12,3 +12,5 @@ Programming language playground where a lot of different programming languages w
 - Results from each language will be shown here
 >## Sixth project for all the languages is System Integration
 - Results from each language will be shown here
+>## Seventh project for all the languages is sorting and filtering eg. Algorithms
+- Results from each language will be shown here
